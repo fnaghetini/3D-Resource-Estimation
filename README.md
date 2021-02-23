@@ -29,5 +29,3 @@ Basic 3D resource estimation workflow, using **GeoStats.jl** package.
 ## Important Notes
 
 - This Julia notebook is currently in Portuguese and **it will be updated to English ASAP**.
-
-- Since it is not possible to share the dataset used in this workflow, **I will rewrite this notebook using a public dataset soon**.
