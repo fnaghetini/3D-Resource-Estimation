@@ -34,3 +34,5 @@ Basic 3D resource estimation workflow of a Cu-Porphyry deposit, using [`GeoStats
 - This Julia notebook is currently in Portuguese, although **it will be updated to English ASAP**.
 
 - Open this project in [`Pluto.jl`](https://github.com/fonsp/Pluto.jl) environment (greater or equal to v0.12.20).
+
+- The Julia version must be `v1.6.X`.
