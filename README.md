@@ -1,6 +1,9 @@
+
+![geostats-logo](https://github.com/JuliaEarth/GeoStats.jl/blob/master/docs/src/assets/logo-text.svg?raw=true)
+
 # 3D-Resource-Estimation
 
-Basic 3D resource estimation workflow, using **GeoStats.jl** package.
+Basic 3D resource estimation workflow of a Cu-Porphyry deposit, using [`GeoStats.jl`](https://juliaearth.github.io/GeoStats.jl/stable/index.html) package.
 
 ## Agenda
 
@@ -29,3 +32,5 @@ Basic 3D resource estimation workflow, using **GeoStats.jl** package.
 ## Important Notes
 
 - This Julia notebook is currently in Portuguese and **it will be updated to English ASAP**.
+
+- Open this project in **Pluto** environment (versions greater or equal to v0.12.20).
