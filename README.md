@@ -29,6 +29,23 @@ Basic 3D resource estimation workflow of a Cu-Porphyry deposit, using [`GeoStats
 
 **11. References**
 
+## Instructions
+
+To run the notebooks locally, install Pluto:
+
+```julia
+julia> using Pkg
+julia> Pkg.add("Pluto")
+```
+
+Launch it:
+
+
+```julia
+julia> using Pluto
+julia> Pluto.run()
+```
+
 ## Important Notes
 
 - This Julia notebook is currently in Portuguese, although **it will be updated to English ASAP**.
